@@ -1,4 +1,5 @@
 # You May Wonder: What Is This Code?
+![stonks](https://i.ytimg.com/vi/if-2M3K1tqk/maxresdefault.jpg)
 
 ## The aim of this project is to predict whether a stock will go **up or down** in value using a **Hoeffding Tree Classifier**.
 
@@ -17,3 +18,4 @@ venv\Scripts\activate      # (Use 'source venv/bin/activate' on macOS/Linux)
 pip install -r requirements.txt
 cd main
 python main.py
+
